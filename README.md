@@ -1,10 +1,10 @@
 ## Description
 
-This web site was built using Boston University's WordPress framework.  JavaScript and theme extension are prohibitted. All animiation and features are implemented by CSS 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+This web site was built using Boston University's WordPress framework.  JavaScript and theme extensions are prohibitted. All animiation and features are implemented in HTML5 and CSS.
 
-## web site link
- [Chitalia Lab](http://sites-staging.bu.edu/chitalialab/)  Please note, the content entry is not complete.
+## Web Site Link
+ [New Chitalia Lab Web Site](http://sites-staging.bu.edu/chitalialab/)    Please note, the content entry is still under construction.
+ For comparsion, please see the [Current Chitalia Lab Web Site](http://sites.bu.edu/chitalialab/)
  
 
 ## Features
