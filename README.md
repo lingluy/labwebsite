@@ -4,4 +4,4 @@ This web site was built using Boston University's WordPress framework.  As JavaS
 
 ## Web Site Link
  [Check out the staging web site here](http://sites-staging.bu.edu/chitalialab/)    Please note, the content entry is still under construction.  
- For comparsion, [here is link to the current Chitalia Lab web site](http://sites.bu.edu/chitalialab/)
+ For comparsion, [here is link to the current Chitalia Lab web site](http://sites.bu.edu/chitalialab/).
